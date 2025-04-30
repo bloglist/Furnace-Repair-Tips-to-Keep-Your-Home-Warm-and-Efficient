@@ -157,13 +157,13 @@ nav.nav-menu {
       color: #f36827;
     }
   h1 {
-    font-size: 35px;
+    font-size: 32px;
     color: #000000;
     font-weight: 450;
     margin-left: 45px;
   }
   h2 {
-    font-size: 25px;
+    font-size: 22px;
     padding-top: 20px;
     padding-bottom: 2px;
    padding-right: 15px;
@@ -173,7 +173,7 @@ nav.nav-menu {
    font-weight: 400;
   }
   h3 {
-    font-size: 22px;
+    font-size: 20px;
     padding-top: 20px;
     padding-bottom: 2px;
    padding-right: 15px;
@@ -231,6 +231,7 @@ nav.nav-menu {
     padding-right: 15px;
     margin-left: 45px;
     margin-right: 45px;
+    font-size: 14px;
   }
   img {
     max-width: 100%;
